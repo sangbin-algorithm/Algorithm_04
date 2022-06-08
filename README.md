@@ -13,3 +13,10 @@
 ![success](https://user-images.githubusercontent.com/107032111/172674778-a4bd223d-c24c-40c7-86bd-d348bc9f8fa2.png)
 ![failure](https://user-images.githubusercontent.com/107032111/172674787-fa631249-f938-4502-b5e1-0470eca2540d.png)
 
+# model 3
+![model](https://user-images.githubusercontent.com/107032111/172674946-209e99b6-f7b2-4abe-ad88-ea291830c100.png)
+![accuracy1](https://user-images.githubusercontent.com/107032111/172674961-ded724b4-94b6-464b-9b36-7a2a3740c6ee.png)
+![accuracy2](https://user-images.githubusercontent.com/107032111/172674969-0b250713-269a-42e3-9fc1-8cb4dfe0a5b1.png)
+![success](https://user-images.githubusercontent.com/107032111/172674979-7f04e319-98f8-4a4d-b8d3-f4d489c3345d.png)
+![failure](https://user-images.githubusercontent.com/107032111/172674987-8dfda264-b3cf-47a8-b42a-ebbe9d73ec9f.png)
+
